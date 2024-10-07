@@ -1,0 +1,22 @@
+index.js
+shared/
+    css/
+        bootstrap.min.css
+components/
+    footer/
+        footer.ejs
+    head/
+        head.ejs
+    index/
+        index.ejs
+        index.css
+    workshop/
+        workshop.css
+        workshop.ejs
+        inMemoryWorkshop.js
+        mongoWorkshop.js
+node_modules/
+.gitignore
+package.json
+README.md
+    
